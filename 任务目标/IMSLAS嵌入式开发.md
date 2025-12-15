@@ -61,8 +61,9 @@ ESP32引脚：
 
   
 
-
 ## 三、AI提示词：
+
+-  [ESP32-S3 嵌入式项目UI与ADC联合调试](https://gemini.google.com/share/83c54d41053b)
 -  [ESP32-S3 离子迁移谱信号采集](https://gemini.google.com/share/c4a958ed4ce8)
 -  [ESP32-S3 IMS 数据采集与分析](https://gemini.google.com/share/3618347ee2a4)
 -  [Arduino代码移植到VScode](https://gemini.google.com/share/3aced94b5d8d)
